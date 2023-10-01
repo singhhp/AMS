@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AMS</string>
+    <string name="attendance_percentage_0">Attendance Percentage: 0%</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="classes_attended_0">Classes Attended: 0</string>
+    <string name="total_classes_0">Total Classes: 0</string>
+    <string name="subject_name">Subject Name</string>
+</resources>
